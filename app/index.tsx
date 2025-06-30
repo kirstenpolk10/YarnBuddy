@@ -4,7 +4,7 @@ import { View, Text, Button, StyleSheet, Alert } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { Calendar } from 'react-native-calendars';
 
-import { db } from "./firebase"; // your firebase config
+import { db } from "./_firebase"; // your firebase config
 import { doc, getDoc, setDoc } from "firebase/firestore";
 
 const userId = "demo-user"; // Replace with real user id when auth is added
