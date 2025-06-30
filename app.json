@@ -37,7 +37,7 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png",
+      "favicon": "./assets/images/favicon.png",
       "manifest": {
         "name": "My First App",
         "short_name": "FirstApp",
