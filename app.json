@@ -38,11 +38,6 @@
     },
     "web": {
       "favicon": "./public/favicon.png",
-       "build": {
-        "babel": {
-          "include": ["expo-router"]
-        }
-      },
       "manifest": {
         "name": "My First App",
         "short_name": "FirstApp",
